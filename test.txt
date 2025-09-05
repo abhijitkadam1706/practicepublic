@@ -1,2 +1,2 @@
 abc
-add from b
+add from remote
