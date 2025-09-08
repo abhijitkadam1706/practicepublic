@@ -12,3 +12,6 @@ add from remote
 another edit from a
 
 
+ add new line
+Add another line
+
